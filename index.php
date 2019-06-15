@@ -8,3 +8,4 @@ define("DOSYAYOL",$_SERVER['DOCUMENT_ROOT']."/kurasepeti/");
 // $_SERVER['DOCUMENT_ROOT']."/"
 define("JSDEGIS",time());
 $uygulama = new Uygulamalar;
+$a = "asdasd";
