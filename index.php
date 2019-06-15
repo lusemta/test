@@ -11,3 +11,4 @@ define("JSDEGIS",time());
 require_once 'uygulama/init.php';
 $uygulama = new Uygulamalar;
 >>>>>>> parent of d6956e5... Update index.php
+asdasd
